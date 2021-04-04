@@ -1,4 +1,4 @@
-# CitiBike in Des Moines?
+# Bike Sharing in Des Moines?
 
 ## Overview
  * Our task is to convince potential investors that the extremely popular "Citi Bike" program in New York City is the right fit for Des Moines, Iowa.
@@ -31,7 +31,7 @@ This again reiterates the last point but also shows that there is high demand on
 
 6) ![image](https://user-images.githubusercontent.com/76462602/113518864-e3697f00-9556-11eb-9d1c-7b2a85ef30fe.png)
 
-Here we see the importance of capturing ssucribers
+Here we see the importance of capturing sucribers
 
 7) ![image](https://user-images.githubusercontent.com/76462602/113518957-730f2d80-9557-11eb-8651-9ee1f77fa8b5.png)
 
