@@ -43,6 +43,6 @@ This graph very importantly shows that Citibike has strong numbers and use with 
 * ![image](https://user-images.githubusercontent.com/76462602/113519192-b1f1b300-9558-11eb-9797-c89ee5e6df54.png)
 
 With this map we can see the potential to have suscribers that use the service for work on our side and the leisure client to be more that satisfied as well.
-
+We are currently prearing more data that is comparing age of suscribers, with trip durations and when they are using the bike sharing program.
 Thank you for your time and we hope to be Biking with you soon.
  
