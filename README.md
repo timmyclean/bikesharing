@@ -7,7 +7,7 @@
 
 
 ## Results
- * the following graphs and data visualizations were created by our team using Tableau and the full Story can be seen there at [link to dashboard](https://public.tableau.com/profile/tim.mclean#!/vizhome/CitiBikeinDesMoinesProject/Story1?publish=yes)
+ * the following graphs and data visualizations were created by our team using Tableau and the full Story can be seen there at [link to dashboard]https://public.tableau.com/profile/tim.mclean#!/vizhome/CitiBikeinDesMoinesProject/CheckoutTimeforUsers
 
  1) We show in the following graph the amazing popularity of the program. We feel this will translate to the Des Moines demographic. It will be substantially benefical to suscribe to the service as opposed to to using on a "per basis". We feel this will a big attraction to Des Moines Resisdents.
  
